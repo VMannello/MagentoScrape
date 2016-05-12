@@ -1,2 +1,2 @@
 # MagentoScrape
-Scrape a Magento website
+Scrape a Magento website with python
